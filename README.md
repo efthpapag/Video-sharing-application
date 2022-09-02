@@ -2,7 +2,7 @@
 
 The purpose of this project is to create an an application through which the users can share videos that they have stored in their device or recorded through the application. the communication between the users is done via the brokers.
 
-# Execution 
+# Execution  
 
 1. Open 2 emulators in android studio.
 2. The videos to be published must be in the downloads folder of the emulator that will publish them. The video used for the test is
