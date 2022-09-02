@@ -1,6 +1,6 @@
 # Video sharing application
 
-The purpose of this project is to create an an application through which the users can share videos that they have stored in their device or recorded through the application. the communication between the users is done via the brokers.
+The purpose of this project is to create an application through which the users can share videos that they have stored in their device or recorded through the application. The communication between the users is done via the brokers.
 
 # Execution  
 
@@ -16,11 +16,11 @@ and ports 3001, 3002, 3003. If these ip and ports are not used, the appropriate 
 
 # Application usage
 
-1. After starting the application via android studio, the fields Username and Port must be filled. In Username the only limitation is that each user
+1. After starting the application via android studio, the fields Username and Port must be filled. In Username, the only limitation is that each user
 must have a unique username. The port must be the one used in the redir of the emulator running the application. Finally, the user presses login.
 2. Publish :
     a) The user writes the hashtag he wants in #[hashtag] format, then clicks add so that
-    the hastag added to those of the video. Repeat the process for all the hashtags.
+    the hastag is added to those of the video. Repeat the process for all the hashtags.
     b) The user fills in the video name if the video is stored in his emulator. The video name must be the same as the name of the mp4 file without the .mp4.
     If the user wants to post a new video that will be shot at that moment then the name does not matter. In both cases the user must not have posted
     video with the same name before.
